@@ -1,0 +1,10 @@
+D:\studia\programy_c\Pomorodo\Pomorodo\bin\Debug\Pomorodo.exe.config
+D:\studia\programy_c\Pomorodo\Pomorodo\bin\Debug\Pomorodo.exe
+D:\studia\programy_c\Pomorodo\Pomorodo\bin\Debug\Pomorodo.pdb
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.csprojResolveAssemblyReference.cache
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.Properties.Resources.resources
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.csproj.GenerateResource.Cache
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.csproj.CoreCompileInputs.cache
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.exe
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.pdb
+D:\studia\programy_c\Pomorodo\Pomorodo\obj\Debug\Pomorodo.Form1.resources
